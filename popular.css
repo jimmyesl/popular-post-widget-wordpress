@@ -1,0 +1,52 @@
+/*Popular Post Sidebar Display*/
+
+
+.pop-header{
+    display: block;
+    width: 100%;
+    padding: 7px;
+    margin: 0;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align:center;
+    line-height: 1;
+    text-decoration: none;
+    background-color:#ffc82e;
+    text-shadow: 1px 1px 4px #29419c;
+    box-shadow: 2px 2px 3px #c9c9c9;
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.pop-post{
+ overflow: hidden;
+ width: 100%;
+ border-bottom: 1px solid #00a3e0;
+ font-weight: normal !important;
+ color:#000000;
+ font-size: 14px;
+    
+}
+
+.popcol1 {
+    float: left;
+    width:;
+    padding: 0px 0px 0px 6px;
+}
+
+.popcol2{
+   width:65% ;
+   float: right;
+   padding-top: 5px;
+   padding-left: 5px;
+}
+
+.popcol2 a{
+    color:#000000;
+    vertical-align:middle;
+}
+
+.popcol2 a:hover{
+    color:#00a3e0;
+}
+
